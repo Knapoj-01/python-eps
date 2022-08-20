@@ -1,2 +1,2 @@
 # python-eps
- Python code for analyzing power systems,
+ Python code for analyzing power systems.
